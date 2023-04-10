@@ -43,8 +43,9 @@ public class EmployeeWage {
 
 
         }
-
-
+        Employee emp3=new Employee("Rose",103,20);
+        int wage3=emp3.calculateWage();
+        System.out.println("Calculate the hourlyWage"+wage3);
 
 
 
