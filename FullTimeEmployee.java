@@ -1,6 +1,7 @@
 //package com.wages;
-
- //class FullTimeEmployee extends Employee {
-    // public FullTimeEmployee(String name,int id,String hoursWorked)
-
+//
+// class FullTimeEmployee extends Employee {
+//     public MonthlyWage(int id,String name,int hoursWorked ){
+//         super(name,id,hoursWorked);}
+//
 //}

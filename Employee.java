@@ -4,10 +4,13 @@ public class Employee {
     private String name;
     private int id;
     private int hoursWorked;
+
+
     public Employee(String name,int id,int hoursWorked){
         this.name=name;
          this.id=id;
         this.hoursWorked=hoursWorked;
+
 
 
     }
